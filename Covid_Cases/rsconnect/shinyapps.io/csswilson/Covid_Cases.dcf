@@ -1,0 +1,13 @@
+name: Covid_Cases
+title: Covid_Cases
+username:
+account: csswilson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5982640
+bundleId: 5750460
+url: https://csswilson.shinyapps.io/Covid_Cases/
+when: 1648743581.18444
+lastSyncTime: 1648743581.18446
+asMultiple: FALSE
+asStatic: FALSE

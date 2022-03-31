@@ -10,6 +10,7 @@
 library(shiny)
 library(tidyverse)     # for data cleaning and plotting
 library(lubridate)     # for date manipulation
+library(rsconnect)
 
 #COVID-19 data from the New York Times
 covid19 <- read_csv("https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv")
